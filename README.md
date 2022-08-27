@@ -7,4 +7,4 @@ Today I have learned the following:-
 - C Language :- Data Types.
 - Laravel :- Validate form, Edit and softdelete data.
 
-More info [here](Day1\Readme.md)
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day1/Readme.md)
