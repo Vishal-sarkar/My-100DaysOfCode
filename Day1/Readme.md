@@ -1,4 +1,5 @@
 Today I have learned the following:-
+
 # Javascript
 - loops, if/else statements, and more.
 - Comment Your JavaScript Code
@@ -11,8 +12,10 @@ Today I have learned the following:-
 - Understanding Case Sensitivity in Variables
 - Explore Differences Between the var and let Keywords
 - Declare a Read-Only Variable with the const Keyword
+
 # C Language
 - Data Types.
+
 # Laravel
 - Eloquent ORM Edit & Update data in database.
 - Query Builder Edit & Update Data in database.

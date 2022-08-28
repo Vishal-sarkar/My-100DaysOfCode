@@ -8,3 +8,9 @@ Today I have learned the following:-
 - Laravel :- Validate form, Edit and softdelete data.
 
 More info [here](Day1\Readme.md)
+
+## Day2
+Today I have learned the following:-
+- Javascript :- Simple operations like increment decrement, division, ect., Compound Assignment, Escaping Literal Quotes, Quoting Strings.
+- C Language :- Data Types.
+- Laravel :- Soft Delete, Data Restore, ForceDelete, Eloquent ORM insert image.
