@@ -16,3 +16,11 @@ Today I have learned the following:-
 - Laravel :- Soft Delete, Data Restore, ForceDelete, Eloquent ORM insert image.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day2/README.md)
+
+## Day3
+Today I have learned the following:-
+- Javascript :- Escape Sequences, concatenation, Appending Variables, Find the Length, Use Bracket Notation, Manipulate Arrays.
+- C Language :-DataTypes, Operators, Conditional Statements, Loops, Command Line.
+- Laravel :- Eloquent ORM Edit,Update Data With Image & Without Image.
+
+More info [here]()
