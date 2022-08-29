@@ -23,4 +23,4 @@ Today I have learned the following:-
 - C Language :-DataTypes, Operators, Conditional Statements, Loops, Command Line.
 - Laravel :- Eloquent ORM Edit,Update Data With Image & Without Image.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/day3/README.md)
