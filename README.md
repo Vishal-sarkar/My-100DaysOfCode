@@ -31,4 +31,4 @@ Today I have learned the following:-
 - Javascript :- Functions, Parameters, Arguments and scope.
 - Laravel :- Delete Data With Image, Image Insert & Resize With Intervention Package, . Multiple Image Upload.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day4/README.md)
