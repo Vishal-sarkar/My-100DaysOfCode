@@ -26,9 +26,16 @@ Today I have learned the following:-
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/day3/README.md)
 
 
-## Day3
+## Day4
 Today I have learned the following:-
 - Javascript :- Functions, Parameters, Arguments and scope.
 - Laravel :- Delete Data With Image, Image Insert & Resize With Intervention Package, . Multiple Image Upload.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day4/README.md)
+
+## Day5
+Today I have learned the following:-
+- Javascript :-LocalScope,Functions, Global vs. Local Scope, Understanding Undefined Value 
+- Laravel :- Multiple Image Upload, Update User Profile and Change Password, Forgot Password & Password Reset.
+
+More info [here]()
