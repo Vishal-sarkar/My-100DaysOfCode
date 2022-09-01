@@ -39,3 +39,10 @@ Today I have learned the following:-
 - Laravel :- Multiple Image Upload, Update User Profile and Change Password, Forgot Password & Password Reset.
 
 More info [here]()
+
+## Day6
+Today I have learned the following:-
+- Javascript :- Queue, Boolean, conditionals, equality, inequality and comparison operators.
+Laravel - User Access control and started a new project of company website
+
+More info[here]()
