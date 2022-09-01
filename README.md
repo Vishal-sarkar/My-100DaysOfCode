@@ -38,7 +38,7 @@ Today I have learned the following:-
 - Javascript :-LocalScope,Functions, Global vs. Local Scope, Understanding Undefined Value 
 - Laravel :- Multiple Image Upload, Update User Profile and Change Password, Forgot Password & Password Reset.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day5/README.md)
 
 ## Day6
 Today I have learned the following:-
