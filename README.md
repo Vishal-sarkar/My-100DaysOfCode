@@ -45,4 +45,4 @@ Today I have learned the following:-
 - Javascript :- Queue, Boolean, conditionals, equality, inequality and comparison operators.
 Laravel - User Access control and started a new project of company website
 
-More info[here]()
+More info[here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day6/README.md)
