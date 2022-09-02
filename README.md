@@ -52,4 +52,4 @@ Today I have learned the following:-
 - JavaScript :- Logical Or & And , Conditionals and Switch Statements.
 - Laravel :- Working on new project "Company Website", Setting up Admin panel , logout page and Frontend Template.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day7/README.md)
