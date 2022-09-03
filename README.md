@@ -59,4 +59,4 @@ Today I have learned the following:-
 - JavaScript :- if else and switch, Objects and solved problems.
 - Laravel :- Establishing connection between backend and frontend and making our company website dynamic.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day8/README.md)
