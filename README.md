@@ -53,3 +53,10 @@ Today I have learned the following:-
 - Laravel :- Working on new project "Company Website", Setting up Admin panel , logout page and Frontend Template.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day7/README.md)
+
+## Day8
+Today I have learned the following:-
+- JavaScript :- if else and switch, Objects and solved problems.
+- Laravel :- Establishing connection between backend and frontend and making our company website dynamic.
+
+More info [here]()
