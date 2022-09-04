@@ -66,4 +66,4 @@ Today I have learned the following:-
 - JavaScript :-  Objects and all loops, solved problems.
 - Laravel :- Worked on company website making it dynamic.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day9/README.md)
