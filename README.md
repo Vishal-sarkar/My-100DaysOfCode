@@ -60,3 +60,10 @@ Today I have learned the following:-
 - Laravel :- Establishing connection between backend and frontend and making our company website dynamic.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day8/README.md)
+
+## Day9
+Today I have learned the following:-
+- JavaScript :-  Objects and all loops, solved problems.
+- Laravel :- Worked on company website making it dynamic.
+
+More info [here]()
