@@ -73,4 +73,4 @@ Today I have learned the following:-
 - JavaScript :-  Recursion and solved problems.
 - Laravel :- Worked on portfolio and contact section of company website.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day10/README.md)
