@@ -67,3 +67,10 @@ Today I have learned the following:-
 - Laravel :- Worked on company website making it dynamic.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day9/README.md)
+
+## Day10
+Today I have learned the following:-
+- JavaScript :-  Recursion and solved problems.
+- Laravel :- Worked on portfolio and contact section of company website.
+
+More info [here]()
