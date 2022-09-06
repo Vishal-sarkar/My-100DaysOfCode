@@ -74,3 +74,10 @@ Today I have learned the following:-
 - Laravel :- Worked on portfolio and contact section of company website.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day10/README.md)
+
+## Day11
+Today I have learned the following:-
+- JavaScript :-  Math, ParseInt, Ternary, recursion and solved problems (completed javascript basic).
+- Laravel :- Completed Contact Form and Change Password section of company website.
+
+More info [here]()
