@@ -87,4 +87,4 @@ Today I have learned the following:-
 - JavaScript :-  scope of var and let, mutate array and prevent object mutation and arrow functions with and without parameter.
 - Laravel :- Completed our company website.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day12/README.md)
