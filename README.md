@@ -81,3 +81,10 @@ Today I have learned the following:-
 - Laravel :- Completed Contact Form and Change Password section of company website.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day11/README.md)
+
+## Day12
+Today I have learned the following:-
+- JavaScript :-  scope of var and let, mutate array and prevent object mutation and arrow functions with and without parameter.
+- Laravel :- Completed our company website.
+
+More info [here]()
