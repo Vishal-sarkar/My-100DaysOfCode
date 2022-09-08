@@ -88,3 +88,9 @@ Today I have learned the following:-
 - Laravel :- Completed our company website.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day12/README.md)
+
+## Day13
+Today I have learned the following:-
+- JavaScript :-  Rest parameter, spread operator, Destructuring and splved problems.
+
+More info [here]()
