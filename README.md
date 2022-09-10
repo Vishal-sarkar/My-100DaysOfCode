@@ -103,4 +103,4 @@ Today I have learned the following:-
 - JavaScript :-  Template Literals and Destructuring Assignment problems .
 - Laravel :- All about laravel9, finished Company Website project and started nww project Multiple authentication system.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day15/README.md)
