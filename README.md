@@ -94,3 +94,13 @@ Today I have learned the following:-
 - JavaScript :-  Rest parameter, spread operator, Destructuring and splved problems.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day13/README.md)
+
+## Day14
+- No coding day. Took a break.
+
+## Day15
+Today I have learned the following:-
+- JavaScript :-  Template Literals and Destructuring Assignment problems .
+- Laravel :- All about laravel9, finished Company Website project and started nww project Multiple authentication system.
+
+More info [here]()
