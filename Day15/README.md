@@ -16,6 +16,7 @@ Today I have learned the following:-
 - Laravel New Ignition Error Page
 - Render A Blade String
 - Forced Scope Bindings
+<!-- started new project Multi Auth-->
 - Section Introduction for Multi Auth
 - Multi Auth With Breeze Excise File and Full Source Code
 - Install Laravel in your system

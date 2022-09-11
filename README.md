@@ -104,3 +104,10 @@ Today I have learned the following:-
 - Laravel :- All about laravel9, finished Company Website project and started nww project Multiple authentication system.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day15/README.md)
+
+## Day16
+Today I have learned the following:-
+- JavaScript :- All ES6 syntax like module, export, import, promise, etc.
+- Laravel :- Worked on Multiple authentication system.
+
+More info [here]()
