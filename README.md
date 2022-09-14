@@ -124,3 +124,10 @@ Today I have learned the following:-
 - Laravel :- Worked on Multiple authentication system.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day18/README.md)
+
+## Day19
+Today I have learned the following:-
+- JavaScript :- Regular Expression (match letters and numbers) and solved problems.
+- Laravel :- Completed Multiple authentication system.
+
+More info [here]()
