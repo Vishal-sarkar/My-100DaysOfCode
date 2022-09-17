@@ -143,4 +143,4 @@ More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day
 
 Laravel - worked on our multi authentication system of multi language eCommerce website and set up the admin dashboard page.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day22/README.md)
