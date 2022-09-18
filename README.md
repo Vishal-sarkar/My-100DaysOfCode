@@ -140,10 +140,21 @@ Today I have learned the following:-
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day20/README.md)
 
 ## Day21
+
 Today:-
 - It was quite busy day. Still somehow manage to work on my new E-commerce Website project.
 
 ## Day22
-Laravel - worked on our multi authentication system of multi language eCommerce website and set up the admin dashboard page.
+
+Today:-
+- Laravel - worked on our multi authentication system of multi language eCommerce website and set up the admin dashboard page.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day22/README.md)
+
+## Day23
+
+Today I have learned the following:-
+- JavaScript :- Regular Expression (quantity specifiers., wildcard and more) and solved problems.
+- Laravel - worked on our multi authentication system of multi language eCommerce website and set up the admin profile page, Admin login page and ipdate image.
+
+More info [here]()
