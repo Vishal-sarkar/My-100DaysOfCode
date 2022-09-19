@@ -158,3 +158,11 @@ Today I have learned the following:-
 - Laravel - worked on our multi authentication system of multi language eCommerce website and set up the admin profile page, Admin login page and ipdate image.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day23/README.md)
+
+## Day24
+
+Today I have learned the following:-
+- JavaScript :- Regular Expression (Lookahead, Capture Groups and more) and solved problems.
+- Laravel - worked on our multi authentication system of multi language eCommerce website and set up the update password page and toster message.
+
+More info [here]()
