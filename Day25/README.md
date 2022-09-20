@@ -13,3 +13,10 @@ Today I have learned the following:-
 - Catch Off By One Errors When Using Indexing
 - Use Caution When Reinitializing Variables Inside a Loop
 - Prevent Infinite Loops with a Valid Terminal Condition
+
+
+## Laravel
+- Frontend Template Setup Part 1
+- Frontend Template Setup Part 2
+- Frontend Template Login Page Setup
+- Frontend Template Register Page Setup
