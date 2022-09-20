@@ -166,3 +166,11 @@ Today I have learned the following:-
 - Laravel - worked on our multi authentication system of multi language eCommerce website and set up the update password page and toster message.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day24/README.md)
+
+## Day25
+
+Today I have learned the following:-
+- JavaScript :- Completed Debugging section of JavaScript Algorithms and Data Structures
+- Laravel - worked on frontend of my multi language eCommerce website.Set up the home page and login and register page.
+
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day24/README.md)
