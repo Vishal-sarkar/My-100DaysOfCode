@@ -173,4 +173,4 @@ Today I have learned the following:-
 - JavaScript :- Completed Debugging section of JavaScript Algorithms and Data Structures
 - Laravel - worked on frontend of my multi language eCommerce website.Set up the home page and login and register page.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day25/README.md)
