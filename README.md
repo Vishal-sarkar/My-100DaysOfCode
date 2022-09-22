@@ -189,4 +189,4 @@ Today I have learned the following:-
 
 - Laravel - Worked on backend brand option of my multi language eCommerce website.Set up the Brand page, Add active sidebar, image intervention, Sweeetalert and Brand curd.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day27/README.md)
