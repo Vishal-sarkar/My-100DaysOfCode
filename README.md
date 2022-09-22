@@ -181,7 +181,7 @@ Today I have learned the following:-
 
 - Laravel - Worked on frontend User Profile of my multi language eCommerce website.Set up the home page, Change Password/Details and login/logout.
 
-More info [here]()
+More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day26/README.md)
 
 ## Day27
 
