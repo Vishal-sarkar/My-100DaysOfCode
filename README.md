@@ -190,3 +190,12 @@ Today I have learned the following:-
 - Laravel - Worked on backend brand option of my multi language eCommerce website.Set up the Brand page, Add active sidebar, image intervention, Sweeetalert and Brand curd.
 
 More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day27/README.md)
+
+## Day28
+
+Today I have learned the following:-
+
+- javascript - Revisited JavaScript Regex expression.
+- Laravel - Worked on backend category page of my multi language eCommerce website.Set up the Category page, Add active sidebar and Category curd.
+
+More info [here]()
