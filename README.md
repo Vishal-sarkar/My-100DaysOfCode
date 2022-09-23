@@ -196,6 +196,6 @@ More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day
 Today I have learned the following:-
 
 - javascript - Revisited JavaScript Regex expression.
-- Laravel - Worked on backend category page of my multi language eCommerce website.Set up the Category page, Add active sidebar and Category curd.
+- Laravel - Worked on backend category page of my multi language eCommerce website.Set up the Category page, Add Sub Category and Category curd.
 
 More info [here]()
