@@ -200,3 +200,13 @@ Today I have learned the following:-
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/tree/main/Day28#readme)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/77b92451f7449f6f95a302588ddd24eb79472e4a)
+
+## Day29
+
+Today I have learned the following:-
+
+- javascript - Basic Data Structure:Array.
+- Laravel - Worked on backend Sub-SubCategory page of my multi language eCommerce website.Set up the Sub-SubCategory page and Sub-SubCategory curd.
+
+* More info [here]()
+* For Github Code Click [here]()
