@@ -218,8 +218,8 @@ Today I have learned the following:-
 - javascript - Completed Basic Data Structure:Array and object.
 - Laravel - Worked on backend Admin product page of my multi language eCommerce website. Add product database and page.
 
-* More info [here]()
-* For Github Code Click [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day30/README.md)
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/f91071d2eb088127185d92aead13e9a8c8d247a5)
 
 ## Day31
 
@@ -228,4 +228,4 @@ Today I have learned the following:-
 - Laravel - Come across a bug while working on product page of my ecommerce project. I don't even know where the problem is. Totally exhausted today, gonna try tommorrow from the scratch.
 
 * More info [here]()
-* For Github Code Click [here]()
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/f91071d2eb088127185d92aead13e9a8c8d247a5)
