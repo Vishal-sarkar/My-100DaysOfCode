@@ -210,3 +210,22 @@ Today I have learned the following:-
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day29/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/851673b3505e9f12c2243c07b78fc88abc1841a3)
+
+## Day30
+
+Today I have learned the following:-
+- Started learning Quantum Computing.
+- javascript - Completed Basic Data Structure:Array and object.
+- Laravel - Worked on backend Admin product page of my multi language eCommerce website. Add product database and page.
+
+* More info [here]()
+* For Github Code Click [here]()
+
+## Day31
+
+Today I have learned the following:-
+- javascript - Reviewe Basic Data Structure:Array and object.
+- Laravel - Come across a bug while working on product page of my ecommerce project. I don't even know where the problem is. Totally exhausted today, gonna try tommorrow from the scratch.
+
+* More info [here]()
+* For Github Code Click [here]()
