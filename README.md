@@ -229,3 +229,12 @@ Today I have learned the following:-
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day31/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/f91071d2eb088127185d92aead13e9a8c8d247a5)
+
+## Day32
+
+Today I have learned the following:-
+- javascript - Solved Basic Algorithm Scripting problems.
+- Laravel - Solved yesterday's bug, Setup Product page and inserted All categories,subcategories and sub-subcategories.
+
+* More info [here]()
+* For Github Code Click [here]()

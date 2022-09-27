@@ -1,4 +1,4 @@
-oday I have learned the following:-
+Today I have learned the following:-
 
 ## JavaScript 
 - Reviewe Basic Data Structure:Array and object.
