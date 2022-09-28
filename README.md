@@ -245,5 +245,5 @@ Today I have learned the following:-
 - javascript - Solved Basic Algorithm Scripting problems.
 - Laravel - Made Product page dynamic and insert product details into database.
 
-* More info [here]()
-* For Github Code Click [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day33/README.md)
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/bace17e8cc518d271cba9c73ca66d8efd1c90bed)
