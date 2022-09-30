@@ -269,5 +269,5 @@ Today-
 - Laravel - Worked on backend Admin Manage product page of Ecommerce project. Setip edit option and update product data and images.
 - Python - Learned some basic python required for Quantum computing.
 
-* More info [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day35/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/3b2ec8f53bda4ecd3dc4c4d4195353fe0f82b37e)
