@@ -247,3 +247,28 @@ Today I have learned the following:-
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day33/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/bace17e8cc518d271cba9c73ca66d8efd1c90bed)
+
+## Day34 
+Today-
+- javascript - Solved some Algorithm Scripting problems.
+- Learned some basic about Quantum computer.
+
+* More info [here]()
+* For Github Code Click [here]()
+
+## Day34 
+Today-
+- javascript - Solved some Algorithm Scripting problems.
+- Learned some basic about Quantum computer.
+
+* More info [here]()
+* For Github Code Click [here]()
+
+## Day35
+Today-
+- javascript - Solved soonee Algorithm Scripting problems.
+- Laravel - Worked on backend Admin Manage product page of Ecommerce project. Setip edit option and update product data and images.
+- Python - Learned some basic python required for Quantum computing.
+
+* More info [here]()
+* For Github Code Click [here]()
