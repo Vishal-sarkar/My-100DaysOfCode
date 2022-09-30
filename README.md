@@ -262,7 +262,6 @@ Today-
 - Learned some basic about Quantum computer.
 
 * More info [here]()
-* For Github Code Click [here]()
 
 ## Day35
 Today-
