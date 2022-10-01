@@ -275,7 +275,7 @@ Today-
 ## Day36
 Today-
 - javascript - Solved Algorithm Scripting problems.
-- Laravel - Worked on Product Update Single & Multiple Image,make product Active and Inactive, Product Delete With Multiple Image.
+- Laravel - Worked on Product Update Single & Multiple Image,make product Active and Inactive, Product Delete With Multiple Image. Review php basics.
 - Attended lab1 of intro to quantum computing.
 
 * More info [here]()
