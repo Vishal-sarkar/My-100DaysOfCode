@@ -271,3 +271,12 @@ Today-
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day35/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/3b2ec8f53bda4ecd3dc4c4d4195353fe0f82b37e)
+
+## Day36
+Today-
+- javascript - Solved Algorithm Scripting problems.
+- Laravel - Worked on Product Update Single & Multiple Image,make product Active and Inactive, Product Delete With Multiple Image.
+- Attended lab1 of intro to quantum computing.
+
+* More info [here]()
+* For Github Code Click [here]()
