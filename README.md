@@ -278,5 +278,5 @@ Today-
 - Laravel - Worked on Product Update Single & Multiple Image,make product Active and Inactive, Product Delete With Multiple Image.
 - Attended lab1 of intro to quantum computing.
 
-* More info [here]()
-* For Github Code Click [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day36/README.md)
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/add2eae5082802d66d25f96cd405cd1776d99a19)
