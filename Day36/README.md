@@ -12,4 +12,4 @@ Today I have learned the following:-
 ## Quantum Computin
 - Attended lab1 of intro to quantum computing.
 
-* For Github Code Click [here]()
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/add2eae5082802d66d25f96cd405cd1776d99a19)
