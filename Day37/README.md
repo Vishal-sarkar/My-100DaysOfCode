@@ -7,4 +7,4 @@ Today I have learned the following:-
 - Slider Edit & Update Delete Part 2
 - Slider Active Inactive
 
-For Github Code Click [here]()
+For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/2a1d6513ef81581fad48679595ebdadbd03311c2)
