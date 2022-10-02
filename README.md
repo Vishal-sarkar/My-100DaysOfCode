@@ -286,5 +286,5 @@ Today-
 - Laravel - Completed Admin Slider section of my Ecommerce project. Setup slider view, edit, update and delete functionality. At the end found a bug in authentication system of the project amd now working on it to fix it.
 
 
-* More info [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day37/README.md)
 * For Github Code Click [here]()
