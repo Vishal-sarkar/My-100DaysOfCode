@@ -253,8 +253,8 @@ Today-
 - javascript - Solved some Algorithm Scripting problems.
 - Learned some basic about Quantum computer.
 
-* More info [here]()
-* For Github Code Click [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day34/README.md)
+
 
 ## Day34 
 Today-
