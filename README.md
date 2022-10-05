@@ -299,7 +299,7 @@ Today-
 Today-
 - Laravel - worked on multi language system of my Ecommerce project
 
-* More info [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day39/README.md)
 
 ## Day40
 Today-
