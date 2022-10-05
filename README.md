@@ -293,7 +293,7 @@ Today-
 Today-
 - Laravel - Fixed yesterday's bug in my Ecommerce project. It's festival time here in India, so had a good time with my buddies.
 
-* More info [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day38/README.md)
 
 ## Day39
 Today-
