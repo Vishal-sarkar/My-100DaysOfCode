@@ -288,3 +288,21 @@ Today-
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day37/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/2a1d6513ef81581fad48679595ebdadbd03311c2)
+
+## Day38
+Today-
+- Laravel - Fixed yesterday's bug in my Ecommerce project. It's festival time here in India, so had a good time with my buddies.
+
+
+## Day39
+Today-
+- Laravel - worked on multi language system of my Ecommerce project
+
+* More info [here]()
+
+## Day40
+Today-
+- Laravel - worked on multi language system of my Ecommerce project
+
+* More info [here]()
+* For Github Code Click [here]()
