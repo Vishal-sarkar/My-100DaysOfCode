@@ -293,6 +293,7 @@ Today-
 Today-
 - Laravel - Fixed yesterday's bug in my Ecommerce project. It's festival time here in India, so had a good time with my buddies.
 
+* More info [here]()
 
 ## Day39
 Today-
@@ -302,7 +303,7 @@ Today-
 
 ## Day40
 Today-
-- Laravel - worked on multi language system of my Ecommerce project
+- Laravel - Worked on frontend of my E-commerce project.Made header, sidebar and slider dynamic.
 
 * More info [here]()
 * For Github Code Click [here]()
