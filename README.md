@@ -305,5 +305,5 @@ Today-
 Today-
 - Laravel - Worked on frontend of my E-commerce project.Made header, sidebar and slider dynamic.
 
-* More info [here]()
-* For Github Code Click [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day40/README.md)
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/21c244e2d27f8eb294262a679f577e5b34a79f9c)
