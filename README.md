@@ -307,3 +307,11 @@ Today-
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day40/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/21c244e2d27f8eb294262a679f577e5b34a79f9c)
+
+
+## Day41
+Today-
+- Laravel - Worked on frontend of my E-commerce project.Insert products and sync products and categories make it dynamic.
+
+* More info [here]()
+* For Github Code Click [here]()
