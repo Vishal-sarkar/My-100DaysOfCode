@@ -313,5 +313,5 @@ Today-
 Today-
 - Laravel - Worked on frontend of my E-commerce project.Insert products and sync products and categories make it dynamic.
 
-* More info [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day41/README.md)
 * For Github Code Click [here]()
