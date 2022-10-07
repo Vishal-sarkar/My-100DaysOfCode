@@ -315,3 +315,11 @@ Today-
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day41/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/84dd5694f5c545be185ba1da60e1426712e35099)
+
+## Day42
+Today-
+- Laravel - Worked on frontend Product details page of my E-commerce project.Made Product details page dynamic.
+
+* More info [here]()
+* For Github Code Click [here]()
+
