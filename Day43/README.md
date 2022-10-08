@@ -13,4 +13,4 @@ Today I have learned the following:-
 - Attended Lab2
 - Completed and submitted Homework of week2
 
-* For Github Code Click [here]()
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/95e2fb6669de38e5614d4a2a57b4e7794182dc9c)
