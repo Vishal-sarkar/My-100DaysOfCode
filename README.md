@@ -328,6 +328,6 @@ Today-
 - Laravel - Worked on frontend Product details page of my E-commerce project.Made Featured, Hot Deals, Special Offer, Special Deals Product Show and also Product Show With Skip Category & Brand in the frontend.
 - Attended Lab2 of Intro to Quantum Computing, submitted the HW of week2.
 
-* More info [here]()
-* For Github Code Click [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day43/README.md)
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/95e2fb6669de38e5614d4a2a57b4e7794182dc9c)
 
