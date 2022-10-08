@@ -323,3 +323,11 @@ Today-
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day42/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/79613bb45c036900e560fce873f5bc82bb686385)
 
+## Day43
+Today-
+- Laravel - Worked on frontend Product details page of my E-commerce project.Made Featured, Hot Deals, Special Offer, Special Deals Product Show and also Product Show With Skip Category & Brand in the frontend.
+- Attended Lab2 of Intro to Quantum Computing, submitted the HW of week2.
+
+* More info [here]()
+* For Github Code Click [here]()
+
