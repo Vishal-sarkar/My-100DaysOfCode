@@ -331,3 +331,11 @@ Today-
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day43/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/95e2fb6669de38e5614d4a2a57b4e7794182dc9c)
 
+## Day44
+Today-
+- Laravel - Worked on frontendProduct Tags Show section of my E-commerce project.Setup Tag Wise Product Show page.
+- JavaScript - Solved few basic javascript algorithm problems.
+
+* More info [here]()
+* For Github Code Click [here]()
+
