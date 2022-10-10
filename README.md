@@ -339,3 +339,10 @@ Today-
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day44/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/797cead727b8a0ddc8c94ef6795f67ffa7162f94)
 
+## Day45
+Today-
+- Laravel - Setup Tag Wise, SubCategory Wise and SubsubCategory Wise Product Show page.Setup Product Tags Paginate, Display Product Size and Color Select Option and Related Product Show in product view page.
+
+* More info [here]()
+* For Github Code Click [here]()
+
