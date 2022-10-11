@@ -333,7 +333,7 @@ Today-
 
 ## Day44
 Today-
-- Laravel - Worked on frontendProduct Tags Show section of my E-commerce project.Setup Tag Wise Product Show page.
+- Laravel - Worked on frontend Product Tags Show section of my E-commerce project.Setup Tag Wise Product Show page.
 - JavaScript - Solved few basic javascript algorithm problems.
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day44/README.md)
@@ -348,7 +348,7 @@ Today-
 
 ## Day46
 Today-
-- Laravel - Setup Tag Wise, SubCategory Wise and SubsubCategory Wise Product Show page.Setup Product Tags Paginate, Display Product Size and Color Select Option and Related Product Show in product view page.
+- Laravel -  Worked on Modal product view in frontend. Setup Product View Modal with Ajax.
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day46/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/960636a4b9aa292da244e5b7a35c626877b46022)
