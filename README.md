@@ -353,3 +353,10 @@ Today-
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day46/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/960636a4b9aa292da244e5b7a35c626877b46022)
 
+## Day47
+Today-
+- Laravel -  Laravel - Worked on Front Product Add to Cart and mini cart setup . Setup Add to cart with Ajax, sweet alert message,  update add to cart, setup mini cart read, count, subtotal and remove product from mini cart..
+
+* More info [here]()
+* For Github Code Click [here]()
+
