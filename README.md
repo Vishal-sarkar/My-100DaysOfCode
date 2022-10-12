@@ -357,6 +357,6 @@ Today-
 Today-
 - Laravel -  Laravel - Worked on Front Product Add to Cart and mini cart setup . Setup Add to cart with Ajax, sweet alert message,  update add to cart, setup mini cart read, count, subtotal and remove product from mini cart..
 
-* More info [here]()
-* For Github Code Click [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day47/README.md)
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/72e84612fb64ae4a79257daf7615612095051273)
 
