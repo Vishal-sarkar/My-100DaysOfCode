@@ -364,6 +364,6 @@ Today-
 Today-
 - Laravel -  .
 
-* More info [here]()
-* For Github Code Click [here]()
+* More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day48/README.md)
+* For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/137318f05b10039478eb7e0eb6b9b4fbc202304d)
 
