@@ -360,10 +360,17 @@ Today-
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day47/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/72e84612fb64ae4a79257daf7615612095051273)
 
-## Day47
+## Day48
 Today-
-- Laravel - Worked on Front-end Wish-list product option setup. Protected Wish-list Page with Middleware and setup wish-list product page and setup read and remove product with Ajax..
+- Laravel - Worked on Front-end Wish-list product option setup. Protected Wish-list Page with Middleware and setup wish-list product page and setup read and remove product with Ajax.
 
 * More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day48/README.md)
 * For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/137318f05b10039478eb7e0eb6b9b4fbc202304d)
+
+## Day49
+Today-
+- Laravel - Worked on Back-end Coupon system option setup and Shipping Area Division District Option Setup..
+
+* More info [here]()
+* For Github Code Click [here]()
 
