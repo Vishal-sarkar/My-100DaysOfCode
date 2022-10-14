@@ -10,4 +10,5 @@ Today I have learned the following:-
 ## Quantum Computing
 - Attended Lecture 3 of Intro to Quantum Computing
 
-* For Github Code Click [here]()
+
+** For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/b8c3696dac2bf5bae20ae07fa716e6953a03869a)
