@@ -380,6 +380,6 @@ Today-
 - Laravel - Worked on Back-end Admin Panel Shipping Area District & State Edit,Update & Delete functionality setup.
 - Attended Lab 3 of intro to quantum computing and submitted week3 HW.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day50/README.md)
+## For Github Code Click [here]()https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/0eea0d6e29c1824172bd7d1c664b8b1ffc4895a0
 
