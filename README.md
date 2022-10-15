@@ -369,7 +369,8 @@ Today-
 
 ## Day49
 Today-
-- Laravel - Worked on Back-end Coupon system option setup and Shipping Area Division District Option Setup..
+- Laravel - Worked on Back-end Coupon system option setup and Shipping Area Division District Option Setup.
+- Attended Lecture 3 of Intro to Quantum Computing.
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day49/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/b8c3696dac2bf5bae20ae07fa716e6953a03869a)
