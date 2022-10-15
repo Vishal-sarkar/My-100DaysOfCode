@@ -375,3 +375,11 @@ Today-
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day49/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/b8c3696dac2bf5bae20ae07fa716e6953a03869a)
 
+## Day50
+Today-
+- Laravel - Worked on Back-end Admin Panel Shipping Area District & State Edit,Update & Delete functionality setup.
+- Attended Lab 3 of intro to quantum computing and submitted week3 HW.
+
+## More info [here]()
+## For Github Code Click [here]()
+
