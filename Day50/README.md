@@ -9,4 +9,4 @@ Today I have learned the following:-
 - Attended Lab 3 of intro to quantum computing and submitted week3 HW.
 
 
-## For Github Code Click [here]()
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/0eea0d6e29c1824172bd7d1c664b8b1ffc4895a0)
