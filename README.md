@@ -389,6 +389,6 @@ Today-
 - Laravel - Fixed a bug in Sub-Subcategory page of backend of my E-commerce project and setup update edit section of Shipping State page.
 - Took little bit rest today.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day51/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/ab954a25f0992cf3512d92fe04f800af9017da48)
 
