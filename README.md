@@ -381,5 +381,14 @@ Today-
 - Attended Lab 3 of intro to quantum computing and submitted week3 HW.
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day50/README.md)
-## For Github Code Click [here]()https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/0eea0d6e29c1824172bd7d1c664b8b1ffc4895a0
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/0eea0d6e29c1824172bd7d1c664b8b1ffc4895a0)
+
+## Day51
+Today-
+
+- Laravel - Fixed a bug in Sub-Subcategory page of backend of my E-commerce project and setup update edit section of Shipping State page.
+- Took little bit rest today.
+
+## More info [here]()
+## For Github Code Click [here]()
 
