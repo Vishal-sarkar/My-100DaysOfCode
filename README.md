@@ -398,6 +398,6 @@ Today-
  It was a very productive day, I spent most of the time coding today, aim to do the same tomorrow.
 - Laravel - Completed Admin Panel Shipping Area setup, added Coupon Apply With Ajax features and design Checkout Page.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day52/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/6d12661a13c0e508b022b19aaf4e49e9e6ad6a84)
 
