@@ -395,9 +395,8 @@ Today-
 
 ## Day52
 Today-
-
-- Laravel - Fixed a bug in Sub-Subcategory page of backend of my E-commerce project and setup update edit section of Shipping State page.
-- Took little bit rest today.
+ It was a very productive day, I spent most of the time coding today, aim to do the same tomorrow.
+- Laravel - Completed Admin Panel Shipping Area setup, added Coupon Apply With Ajax features and design Checkout Page.
 
 ## More info [here]()
 ## For Github Code Click [here]()
