@@ -407,6 +407,6 @@ Today-
  Another productive day, it was always a challenging task for me to setup a payment gateway but did anyway today.Aim to complete this project within this month.
 - Laravel - Completed Stripe Payment Gateway Page Design and Orders & orderItem Database Design.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day53/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/e71f264760b5f6f65d1463835456a3466c19be13)
 
