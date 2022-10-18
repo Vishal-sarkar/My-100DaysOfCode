@@ -401,3 +401,12 @@ Today-
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day52/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/6d12661a13c0e508b022b19aaf4e49e9e6ad6a84)
 
+
+## Day53
+Today-
+ Another productive day, it was always a challenging task for me to setup a payment gateway but did anyway today.Aim to complete this project within this month.
+- Laravel - Completed Stripe Payment Gateway Page Design and Orders & orderItem Database Design.
+
+## More info [here]()
+## For Github Code Click [here]()
+
