@@ -410,3 +410,12 @@ Today-
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day53/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/e71f264760b5f6f65d1463835456a3466c19be13)
 
+
+## Day54
+Today-
+ Another productive day, .
+- Laravel - Completed Send Order Mail After Complete Stripe Payment, Read & View Users Order In Profile,
+Add Cash on Delivery Payment Method and Make Order Invoice & Generate PDF Part.
+
+## More info [here]()
+## For Github Code Click [here]()
