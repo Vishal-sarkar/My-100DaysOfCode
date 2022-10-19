@@ -417,5 +417,5 @@ Today-
 - Laravel - Completed Send Order Mail After Complete Stripe Payment, Read & View Users Order In Profile,
 Add Cash on Delivery Payment Method and Make Order Invoice & Generate PDF Part.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day54/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/dfe8e766e6eb944e4b85e8acada379935a17c9c8)
