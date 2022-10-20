@@ -419,3 +419,13 @@ Add Cash on Delivery Payment Method and Make Order Invoice & Generate PDF Part.
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day54/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/dfe8e766e6eb944e4b85e8acada379935a17c9c8)
+
+
+## Day54
+Today-
+ Another productive day, .
+- Laravel - Completed Return Order System, Setup Read and view all Orders page In Admin Panel and also Read Orders By Status
+- Quantum Computing Lecture 4 - Learn about Bra-Ket notation of quantum state, Bloch sphere and quantum gates(x and hadamard gate).
+
+## More info [here]()
+## For Github Code Click [here]()
