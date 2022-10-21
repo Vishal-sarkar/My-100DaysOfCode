@@ -439,5 +439,5 @@ Today-
     * Added feature in User Profile : Send Return Order Request and Read All Cancel Orders 
 
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day56/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/147baecb9dde5fca39b99e4e43ebb061748bb162)
