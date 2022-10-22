@@ -421,7 +421,7 @@ Add Cash on Delivery Payment Method and Make Order Invoice & Generate PDF Part.
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/dfe8e766e6eb944e4b85e8acada379935a17c9c8)
 
 
-## Day54
+## Day55
 Today-
  Another productive day, .
 - Laravel - Completed Return Order System, Setup Read and view all Orders page In Admin Panel and also Read Orders By Status
@@ -431,7 +431,7 @@ Today-
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/6d1891c09db356b578932fe8a5c4671697e70576)
 
 
-## Day55
+## Day56
 Today-
  Another productive day, .
 - Laravel -  
@@ -441,3 +441,15 @@ Today-
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day56/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/147baecb9dde5fca39b99e4e43ebb061748bb162)
+
+
+## Day57
+Today-
+ Another productive day, .
+- Laravel -  Added Read All Register Users page, Detect Online Offline Users and added Count Function in Admin panel and Setup Blog Site Setup page with Multiple Language in Admin Panel.
+
+- Quantum Computing - Learn more about gate, how it is applied on bloch sphere and start learning python library qiskit for quantum computing.
+
+
+## More info [here]()
+## For Github Code Click [here]()
