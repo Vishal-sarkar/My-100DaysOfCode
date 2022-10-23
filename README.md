@@ -457,8 +457,7 @@ Today-
 ## Day58
 Today-
  Another productive day, .
-- Laravel -  
-
+- Laravel -  Completed frontend Blog page, Blog detail view and setup bog management system in backend to insert Blog post dynamically and worked of site setting section of my Multi Language E-Commerce project. 
 
 ## More info [here]()
 ## For Github Code Click [here]()
