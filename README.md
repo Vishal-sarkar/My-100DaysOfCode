@@ -459,5 +459,5 @@ Today-
  Another productive day, .
 - Laravel -  Completed frontend Blog page, Blog detail view and setup bog management system in backend to insert Blog post dynamically and worked of site setting section of my Multi Language E-Commerce project. 
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day58/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/03cea3458c83917ef47e4c460f0bfc93339dd889)
