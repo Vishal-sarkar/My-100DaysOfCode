@@ -467,5 +467,5 @@ Today-
  Another productive day, .
 - Laravel -  Happy Diwali Everyone, Its festival time here, still manage to code for few hour to stay consistent, complted site setting functionality in admin panal, Setup Dynamic SEO Options and worked on Return Order Option in my E-commerce project. 
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day59/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/651068e3912787bcfc93e09ff6d82746fe4b4ad3)
