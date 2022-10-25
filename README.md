@@ -469,3 +469,11 @@ Today-
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day59/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/651068e3912787bcfc93e09ff6d82746fe4b4ad3)
+
+
+## Day60
+Today-
+- Laravel -  Completed Return Order Option and Product Review System both in backend and frontend, setup Share Product and Blog Content on Social Site, Create 404 Page and Made Admin Dashboard Dynamic. 
+
+## More info [here]()
+## For Github Code Click [here]()
