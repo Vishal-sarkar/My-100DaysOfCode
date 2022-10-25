@@ -475,5 +475,5 @@ Today-
 Today-
 - Laravel -  Completed Return Order Option and Product Review System both in backend and frontend, setup Share Product and Blog Content on Social Site, Create 404 Page and Made Admin Dashboard Dynamic. 
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day60/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/9f4b2904ae3605d2615d1c7a9e692945b7a5d6d3)
