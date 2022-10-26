@@ -477,3 +477,12 @@ Today-
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day60/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/9f4b2904ae3605d2615d1c7a9e692945b7a5d6d3)
+
+
+## Day60
+Today-
+- Laravel -  Setup Stock Management system in Admin Panel and started working on Admin User Role Access Control. 
+- Quantum Computing - Created quantum circuit for the first time in IBM quantum Experience.
+
+## More info [here]()
+## For Github Code Click [here]()
