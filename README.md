@@ -484,5 +484,5 @@ Today-
 - Laravel -  Setup Stock Management system in Admin Panel and started working on Admin User Role Access Control. 
 - Quantum Computing - Created quantum circuit for the first time in IBM quantum Experience.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day61/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/70e4f8d593d21cf38ef9a0f84bc0207409cea855)
