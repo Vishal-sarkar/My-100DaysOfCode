@@ -493,5 +493,5 @@ Today-
 - Laravel - Completed Admin User Role Access Control section of my ecommerce project. Setup User Role ACL Edit and Update and delete and Login with New Admin User.
 - Python - Solved python problem, Created few circuit in IBM Quantum Experiencs.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day62/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/de97e0f7c26e8b60aa6cab52bd005ee3de750a42)
