@@ -14,4 +14,4 @@ Today I have learned the following:-
 ## Quantum Computing 
 - Visualise result in bloch sphere and simulate result using QASM Simulator.
 
-## For Github Code Click [here]()
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/313e91461460f5ab47c32137fc7f2500fd2a2cde)
