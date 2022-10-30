@@ -516,5 +516,5 @@ Today-
 Today-
 - Laravel - Setup upload and download digital product system, create custom pagination and worked on product sort by category and brand. Finally Completed my project, need fix few bugs. After that i will deploy it on heroku.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day65/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/da198a98e9c781b7a3d29c7570c65858935b7749)
