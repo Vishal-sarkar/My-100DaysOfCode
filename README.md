@@ -518,3 +518,17 @@ Today-
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day65/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Advanced-Ecommerce-Website/commit/da198a98e9c781b7a3d29c7570c65858935b7749)
+
+## Day66
+Today-
+- No code today. Took a break after a long time, gonna start tomorrow.
+
+## Day67
+Today-
+- Reviewed some php basic and Solved some interview question. preparing for interview.
+
+## Day68
+- After finishing my last project, i was stuck and couldn't able to decide what to do next,i have been coding since last 2years still i feel not good enough to apply for a job, so today I started another new project, brand portfolio website.
+
+## Day69
+- Started new Brand Portfolio website project with laravel. Setup breez authentication system and setup admin dashboard and profile page.
