@@ -532,3 +532,10 @@ Today-
 
 ## Day69
 - Started new Brand Portfolio website project with laravel. Setup breez authentication system and setup admin dashboard and profile page.
+
+## Day70
+- Setup admin profile page and added edit profile and image option. And setup toastr for view message.
+- Review php fundamentals and some interview questions.
+
+## Day71
+- Build change password page in my admin panel of my company website project and setup update password feature.
