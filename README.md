@@ -539,3 +539,7 @@ Today-
 
 ## Day71
 - Build change password page in my admin panel of my company website project and setup update password feature.
+
+## Day27
+- Build frontend of my brand portfolio website and uploaded it on github.
+- And solved few javascript algorithm problems.
