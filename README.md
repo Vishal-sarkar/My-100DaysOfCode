@@ -546,6 +546,6 @@ Today-
 
 ## Day73
 - Frontend Template Setup 
-- Install Image intervention Package
+- Install and use Image intervention Package
 - Backend Home Page Slider edit and update Option 
 - Frontend Home Page Slider
