@@ -550,5 +550,5 @@ Today-
 - Backend Home Page Slider edit and update Option 
 - Frontend Home Page Slider
 
-## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day73/README.md)
+## More info [here]()
 ## For Github Code Click [here]()
