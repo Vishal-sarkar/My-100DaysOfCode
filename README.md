@@ -552,3 +552,9 @@ Today-
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/tree/main/Day73#readme)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Company-Website/commit/766cbd7e6d9fcea3ed5f7d7b7d3ac1c3e098adf7)
+
+## Day74
+- Setup Backend about page, created table and store data in database using About model and controller.
+
+## More info [here]()
+## For Github Code Click [here]()
