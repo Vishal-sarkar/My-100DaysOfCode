@@ -562,5 +562,5 @@ Today-
 ## Day7
 - Work on About section of my portfolio website and multi image upload feature and created separate about page.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day75/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Company-Website/commit/7d1efe64eec0524cc8b6d1eb6f3ec7dad204670d)
