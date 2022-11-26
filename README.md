@@ -568,5 +568,5 @@ Today-
 ## Day76
 - Work insert and view multi image in About page of my portfolio website and worked on deployment of my previous ecommerce project.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day76/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Company-Website/commit/d8d7da373fb96270548c79769a899139dfc5b7ae)
