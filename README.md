@@ -570,3 +570,9 @@ Today-
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day76/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Company-Website/commit/d8d7da373fb96270548c79769a899139dfc5b7ae)
+
+## Day77
+- Work on edit and delete multi image in About page of admin panel of portfolio website and used the multi image on the frontend make it dynamic along with some PHP interview question followed by javascript algorithm problems.
+
+## More info [here]()
+## For Github Code Click [here]()
