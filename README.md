@@ -574,5 +574,5 @@ Today-
 ## Day77
 - Work on edit and delete multi image in About page of admin panel of portfolio website and used the multi image on the frontend make it dynamic along with some PHP interview question followed by javascript algorithm problems.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day77/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Brand-Portfolio-Website/commit/80ce670d06d8ed36cd731e4f7a2736feeba27c61)
