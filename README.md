@@ -576,3 +576,9 @@ Today-
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day77/README.md)
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Brand-Portfolio-Website/commit/80ce670d06d8ed36cd731e4f7a2736feeba27c61)
+
+## Day78
+- Started working on portfolio section of admin panel of portfolio website along with some PHP interview question went through some previous javascript algorithm problems. I found that i literally forgot whater ever I did a month ago, so from now I started to Note all the complex logic i use to solve problems.
+
+## More info [here]()
+## For Github Code Click [here]()
