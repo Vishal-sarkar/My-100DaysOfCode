@@ -586,5 +586,5 @@ Today-
 ## Day79
 - Completed portfolio section of my brand portfolio website. Setup add, edit and delete portfolio option in admin panel and setup database for portfolio data and aslo showed the data on front end page. And solved few javascript and php problem.
 
-## More info [here]()
-## For Github Code Click [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day79/README.md)
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Brand-Portfolio-Website/commit/ecb287bd61d937417b5341206bede970ce158a72)
