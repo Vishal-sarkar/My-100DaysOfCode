@@ -9,7 +9,7 @@ Today I have learned the following:-
 - Fontend Portfolio Show Setup Part 1
 - Fontend Portfolio Show Setup Part 2
 
-## For Github Code Click [here]()
+## For Github Code Click [here](https://github.com/Vishal-sarkar/Brand-Portfolio-Website/commit/ecb287bd61d937417b5341206bede970ce158a72)
 
 ## Javascript
 - Did some algorithm problem
