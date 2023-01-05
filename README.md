@@ -590,6 +590,11 @@ Today-
 ## For Github Code Click [here](https://github.com/Vishal-sarkar/Brand-Portfolio-Website/commit/ecb287bd61d937417b5341206bede970ce158a72)
 
 ## Day80
-- Started new Face recognitation app using react. Here, I use tachyons, react-parallax-tilt and particles-bg to design our homepage. I used Face Detection model API of Clarifai todetect face. Now working on the authentication system of the app.
+- Started new Face recognition  app using react. Here, I use tachyons, react-parallax-tilt and particles-bg to design our homepage. I used Face Detection model API of Clarifai todetect face. Now working on the authentication system of the app.
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day80/README.md)
+
+## Day81
+- Completed frontend section of my face recognition  app. Now working on the backend of the app. Revisited and Build a demo server using NodeJS and ExpressJS.
+
+## More info [here]()

@@ -1,0 +1,21 @@
+Today I have learned the following:-
+
+- Introduction To Node.js
+- fetch() in Node
+- Latest Version of Node.js
+- For Windows Users
+- Running script.js In Node
+- Modules In Node
+- ES6 Modules??
+- ES6 Modules In Node
+- Building a Server
+- Introduction to Express.js
+- Express Middleware
+- Express Version Update
+- Postman
+- Quick Note: req.header
+- RESTful APIs
+- Node File System Module
+- Exercise: Santa's Node Helper
+- Exercise Resources: Santa's Node Helper
+- Solution: Santa's Node Helper
