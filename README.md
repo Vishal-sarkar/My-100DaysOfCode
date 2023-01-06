@@ -598,3 +598,8 @@ Today-
 - Completed frontend section of my face recognition  app. Now working on the backend of the app. Revisited and Build a demo server using NodeJS and ExpressJS.
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day81/README.md)
+
+## Day81
+- Today, build a server for my #react face delectation app by using #NodeJS  and #expressJs and connected my front end with the server.
+
+## More info [here]()
