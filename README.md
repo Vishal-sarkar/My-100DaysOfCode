@@ -599,7 +599,7 @@ Today-
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day81/README.md)
 
-## Day81
+## Day82
 - Today, build a server for my #react face delectation app by using #NodeJS  and #expressJs and connected my front end with the server.
 
-## More info [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day82/README.md)
