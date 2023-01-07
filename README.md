@@ -607,4 +607,4 @@ Today-
 ## Day83
 - Today, solved a bug that i encountered yesterday in Face Detectation API and connect and updated my user profilewith my #node and #express server. Start building my postgres database.
 
-## More info [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day83/README.md)
