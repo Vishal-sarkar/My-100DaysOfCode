@@ -603,3 +603,8 @@ Today-
 - Today, build a server for my #react face delectation app by using #NodeJS  and #expressJs and connected my front end with the server.
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day82/README.md)
+
+## Day83
+- Today, solved a bug that i encountered yesterday in Face Detectation API and connect and updated my user profilewith my #node and #express server. Start building my postgres database.
+
+## More info [here]()
