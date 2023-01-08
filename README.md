@@ -613,4 +613,4 @@ Today-
 ## Day84
 - Build a database and created tables using #PostgreSQL and #pgAdmin for my Face Detection app in #react and connect it with my #node and #express server. 
 
-## More info [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day84/README.md)
