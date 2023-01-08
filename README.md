@@ -608,3 +608,9 @@ Today-
 - Today, solved a bug that i encountered yesterday in Face Detectation API and connect and updated my user profilewith my #node and #express server. Start building my postgres database.
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day83/README.md)
+
+
+## Day84
+- Build a database and created tables using #PostgreSQL and #pgAdmin for my Face Detection app in #react and connect it with my #node and #express server. 
+
+## More info [here]()
