@@ -620,4 +620,4 @@ Today-
 - worked on new project in #Nextjs. Worked with #Nextjs router and connected the app with #bubble API.
 #javascript #Webdevlopment #code #developers #FullStackDeveloper
 
-## More info [here]()
+## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day85/README.md)
