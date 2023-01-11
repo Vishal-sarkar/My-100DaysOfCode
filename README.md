@@ -621,3 +621,15 @@ Today-
 #javascript #Webdevlopment #code #developers #FullStackDeveloper
 
 ## More info [here](https://github.com/Vishal-sarkar/My-100DaysOfCode/blob/main/Day85/README.md)
+
+## Day86
+- Worked o News page and category filter option of news page in new #NextJS project.
+
+## More info [here]()
+
+## Day87
+- Worked o News page and checkbox functionality category filter option of news page and added downloadable digital file in the news page of new #NextJS project.
+- use #tailwindcss to design the page
+#javascript #code #FullStackDeveloper #webdeveloper
+
+## More info [here]()
